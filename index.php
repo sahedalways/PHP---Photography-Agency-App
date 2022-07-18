@@ -71,7 +71,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/public/images/c2.jpg" class="d-block w-100" alt="...">
+      <img src="/public/Images/c2.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Priority to Quality</h5>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
@@ -99,7 +99,7 @@
   <div class="container-fluid py-3">
     <div class="row">
     <div class="about-single-box col-lg-6 col-md-6 col-12">
-      <img src="/public/images/a.jpg" alt="">
+      <img src="/public/Images/a.jpg" alt="">
     </div>
 
     <div class="about-single-box col-lg-6 col-md-6 col-12">
@@ -120,7 +120,7 @@
 
     <div class="services-single-box col-lg-4 col-md-4 col-12">
     <div class="card">
-  <img class="card-img-top" src="/public/images/s.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/public/Images/s.jpg" alt="Card image cap">
   <div class="card-body">
     <h4 class="card-title">Limitless Satisfaction</h4>
     <p class="card-text">Priority to Quality</p>
@@ -131,7 +131,7 @@
 
 <div class="services-single-box col-lg-4 col-md-4 col-12">
 <div class="card">
-  <img class="card-img-top" src="/public/images/s2.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/public/Images/s2.jpg" alt="Card image cap">
   <div class="card-body">
     <h4 class="card-title">Beautiful Nature</h4>
     <p class="card-text">Priority to Quality.</p>
@@ -142,7 +142,7 @@
 
 <div class="services-single-box col-lg-4 col-md-4 col-12">
 <div class="card">
-  <img class="card-img-top" src="/public/images/s3.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/public/Images/s3.jpg" alt="Card image cap">
   <div class="card-body">
     <h4 class="card-title">Beautiful Experience</h4>
     <p class="card-text">Priority to Quality</p>
@@ -163,43 +163,43 @@
    <div class="row">
 
 <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g.jpg" alt="">
+   <img src="/public/Images/g.jpg" alt="">
    </div>
    <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g2.jpg" alt="">
+   <img src="/public/Images/g2.jpg" alt="">
    </div>
    <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g3.jpg" alt="">
+   <img src="/public/Images/g3.jpg" alt="">
    </div>
    <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g4.jpg" alt="">
+   <img src="/public/Images/g4.jpg" alt="">
 </div>
 
 <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g5.jpg" alt="">
+   <img src="/public/Images/g5.jpg" alt="">
    </div>
    <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g6.jpg" alt="">
+   <img src="/public/Images/g6.jpg" alt="">
    </div>
    <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g7.jpg" alt="">
+   <img src="/public/Images/g7.jpg" alt="">
    </div>
    <div class="gallery-single-box col-lg-3 col-md-3 col-12 pb-4">
-   <img src="/public/images/g8.jpg" alt="">
+   <img src="/public/Images/g8.jpg" alt="">
 </div>
  
 
 <div class="gallery-single-box col-lg-3 col-md-3 col-12  pb-4">
-   <img src="/public/images/g9.jpg" alt="">
+   <img src="/public/Images/g9.jpg" alt="">
    </div>
 <div class="gallery-single-box col-lg-3 col-md-3 col-12  pb-4">
-   <img src="/public/images/g10.jpg" alt="">
+   <img src="/public/Images/g10.jpg" alt="">
    </div> 
 <div class="gallery-single-box col-lg-3 col-md-3 col-12  pb-4">
-   <img src="/public/images/g11.jpg" alt="">
+   <img src="/public/Images/g11.jpg" alt="">
    </div>
 <div class="gallery-single-box col-lg-3 col-md-3 col-12  pb-4">
-   <img src="/public/images/g12.jpg" alt="">
+   <img src="/public/Images/g12.jpg" alt="">
 </div>
 
 </div>
